@@ -1,8 +1,8 @@
 # Khierraouladtoumi.github.io
 
-# Portfolio — Technicienne Supérieure Systèmes & Réseaux
+# Portfolio — Technicienne Helpdesk 
 
-Bienvenue sur mon portfolio ! Je suis actuellement à la recherche d'une opportunité professionnel (alternance ) en administration systèmes et réseaux.
+Bienvenue sur mon portfolio ! Je suis actuellement à la recherche d'une opportunité professionnel en CDD ou CDI en tant que Technicienne de support informatique
 
 🔗 **Site Web :** Khierraouladtoumi.github.io
 💼 **LinkedIn :** Https://www.linkedin.com/in/Khiérra-oulad-toumi-b7052b365?utm_source=share_via&utm_content=profile&utm_medium=member_android
@@ -10,7 +10,7 @@ Bienvenue sur mon portfolio ! Je suis actuellement à la recherche d'une opportu
 ## 🛠️ Compétences techniques
 - **Systèmes :** Windows Server (Active Directory, DHCP, DNS), Linux (Debian/Ubuntu)
 - **Réseaux :** VLAN, Routage, Adressage IP, Cisco Packet Tracer
-- **Virtualisation & Outils :** VMware, VirtualBox, Bash, PowerShell
+- **Virtualisation & Outils :** VMware, VirtualBox, Bash, PowerShell, Word, excel.
 
 ## 📂 Projets présentés
 - Architecture réseau simulée sous Packet Tracer
