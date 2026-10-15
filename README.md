@@ -14,6 +14,6 @@ Bienvenue sur mon portfolio ! Je suis actuellement à la recherche d'une opportu
 
 ## 📂 Projets présentés
 - Architecture réseau simulée sous Packet Tracer
-- Déploiement et sécurisation d'un serveur Web Linux
+- Déploiement et langage python 
 - Sécuriser une infrastructure
 - Compétence  approfondie sur l'utilisation de Windows 11  
