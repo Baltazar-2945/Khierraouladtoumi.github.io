@@ -1,6 +1,6 @@
 # Khierraouladtoumi.github.io
 
-# Portfolio — Technicienne de support informatique
+# Portfolio — Technicienne Helpdesk 
 
 Bienvenue sur mon portfolio ! Je suis actuellement à la recherche d'une opportunité professionnel en CDD ou CDI en tant que Technicienne de support informatique
 
